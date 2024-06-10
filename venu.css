@@ -1,0 +1,47 @@
+.imagecard{
+    background-color: rgb(158, 182, 211);
+    text-align: center;
+    height: 40vh;
+    
+    margin-left: 20vw;
+    margin-right: 22.5vw;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    
+}
+.image{
+    height: 8vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+tr,th{
+    padding: 3vh;
+}
+input{
+    margin-right: 3vh;
+    border-radius: 3px;
+    border-color: aqua;
+    
+}
+select{
+    margin-right: 3vh;
+}
+th{
+    color: rgb(35, 39, 95);
+    vertical-align: top;
+}
+h3{
+    font-weight: bold;
+
+}
+input{
+    outline: rgb(102, 165, 236);
+    border-color: rgb(102, 165, 236);
+    
+}
+table{
+    border-color: aqua;
+    border: 2px solid aqua;
+    margin-left: 20vw;
+    
+}
